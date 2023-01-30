@@ -29,9 +29,9 @@ Projeto desenvolvido em TypeScript e React, utilizando o paradigma de programaç
 3. Se não estiver na versão 16 basta usar o comando: `nvm use 16`
 4. Rode os serviços node e db com o comando: `docker-compose up -d`.
 
-Lembre-se de parar o mysql se estiver usando localmente na porta padrão (3306), ou adapte, caso queria fazer uso da aplicação em containers;
-Esses serviços irão inicializar um container chamado app;
-A partir daqui você pode rodar o container app via CLI ou abri-lo no VS Code.
+- Lembre-se de parar o mysql se estiver usando localmente na porta padrão (3306), ou adapte, caso queria fazer uso da aplicação em containers;
+- Esses serviços irão inicializar um container chamado app;
+- A partir daqui você pode rodar o container app via CLI ou abri-lo no VS Code.
 
 5. Instale as dependências com `npm install`
 6. Por ultimo: `npm start`
