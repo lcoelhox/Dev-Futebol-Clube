@@ -4,7 +4,7 @@
 Projeto desenvolvido em TypeScript e React, utilizando o paradigma de programação orientada a objeto e pacote sequelize para mapeamento dos dados, onde desenvolvi uma API (utilizando o método `TDD`) e utilizei a arquitetura MSC. Também integrei através do docker-compose as aplicações para que elas funcionem consumindo o banco de dados MySQL.
 
 ## Stacks e habilidades utilizadas
-- API
+- API Rest
 - TypeScript
 - React
 - Express
