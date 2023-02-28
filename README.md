@@ -34,7 +34,8 @@ Projeto desenvolvido em TypeScript e React, utilizando o paradigma de programaç
 - A partir daqui você pode rodar o container app via CLI ou abri-lo no VS Code.
 
 5. Instale as dependências com `npm install`
-6. Por ultimo: `npm start`
+6. Entre na pasta de frontend
+7. Por ultimo: `npm start`
 
 ## Fontes de consultas:
 * [TypeScript](https://www.typescriptlang.org/docs/)
